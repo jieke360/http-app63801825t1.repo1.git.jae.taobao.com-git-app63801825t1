@@ -1,0 +1,14 @@
+.helloTae{
+    width:968px;
+    margin:0 auto;
+    background: #f5f5f5;
+    border:1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    min-height: 200px;
+}
+.ht-Header{
+    line-height: 40px;
+    font-size:20px;
+    font-weight: bold;
+}

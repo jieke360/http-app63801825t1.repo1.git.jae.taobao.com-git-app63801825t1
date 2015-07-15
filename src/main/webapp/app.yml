@@ -1,0 +1,8 @@
+security:
+- {url: /index,role: anonymous}
+#安全和权限配置，默认是所有人都可以访问
+#这个是前缀规则, url代表请求相对路径的前缀。
+#role代表安全级别
+#anonymous是任何用户都可以访问
+#developer是站点所有者才能访问,
+#shopcustomer 是表示登录用户可以访问
